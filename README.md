@@ -1,0 +1,1 @@
+plataforma de despacho de supervisores motorizados, la cual tiene una página de inicio con información, una página de inicio de sesión, unos roles de administrador, operador de medios, despachador y supervisor motorizados, el rol de administrdaor es poder crear operadores
